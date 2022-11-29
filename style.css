@@ -45,3 +45,6 @@ button:hover{
     padding: 8px 20px;
     box-sizing: border-box;
 }
+img{
+    width: 80%;
+}
